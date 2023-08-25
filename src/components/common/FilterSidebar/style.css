@@ -1,0 +1,19 @@
+.sidebar-section {
+    width: 100%;
+    display: block;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+.sidebar-section h3 {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.sidebar-section div label span {
+    font-size: .9rem;
+    font-family: 'Sanchez', serif !important;
+    font-weight: 400;
+}

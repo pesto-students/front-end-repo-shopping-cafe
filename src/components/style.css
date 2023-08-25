@@ -1,0 +1,33 @@
+.section{
+    display: block;
+    margin-bottom: 50px;
+}
+.brands-deal{
+    background-color: #004743;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.brands-deal h1{
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.brands-deal p{
+    color: #fff;
+    margin-top: 0;
+}
+
+.logos{
+    display: block;
+    margin-top: 25px;
+}
+
+.brands-deal img{
+    width: 100px;
+    padding: 0 50px;
+    background-color: #fff;
+    border-radius: 4px;
+    margin-right: 14px;
+}

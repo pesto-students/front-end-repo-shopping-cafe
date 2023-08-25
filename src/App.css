@@ -1,0 +1,20 @@
+/* styles/App.css */
+@import url('https://fonts.googleapis.com/css2?family=Sanchez:ital@0;1&display=swap');
+body {
+  font-family: 'Sanchez', serif;
+  margin: 0;
+  padding: 0;
+}
+
+p, div, input, textarea, button {
+  font-family: 'Sanchez', serif !important;
+}
+
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.container{
+  max-width: 95% !important;
+}

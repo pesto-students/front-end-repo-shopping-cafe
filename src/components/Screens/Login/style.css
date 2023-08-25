@@ -1,0 +1,28 @@
+.entry-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 54vh;
+}
+
+.entry-form .form{
+    text-align: center;
+    background-color: #FBFBFB;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+.entry-form .form h1{
+    margin-top: 0;
+}
+
+.submit-btn{
+    width: 100%;
+    background-color: #575757 !important;
+    border: 1px solid #575757 !important;
+    color: #fff !important;
+    font-size: 1rem !important;
+    height: 50px;
+}
