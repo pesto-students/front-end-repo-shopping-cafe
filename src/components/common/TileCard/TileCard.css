@@ -1,0 +1,53 @@
+.text-icon-carousel {
+    margin: 20px;
+}
+
+.slick-initialized .slick-slide{
+    background-color: #fff;
+}
+
+.carousel-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    padding: 20px;
+    margin: 0 15px 0 10px;
+    background-color: #f4f4f4;
+    cursor: pointer;
+}
+
+.carousel-item:hover{
+    background-color: #C9C9C9;
+
+}
+
+.carousel-icon {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.carousel-icon svg{
+    font-size: 4rem;
+}
+
+.carousel-text{
+    display: inline-block;
+}
+
+.carousel-text h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.carousel-text p {
+    font-size: 1rem;
+}
+.text-icon-carousel .slick-slider svg{
+    color: #000;
+}
+
+.slick-next{
+    right: -35px;
+}

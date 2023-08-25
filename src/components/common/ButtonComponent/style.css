@@ -1,0 +1,13 @@
+.loginSignup-btn{
+    padding: 5px 20px;
+    font-size: .9rem;
+    text-align: center;
+    margin-right: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.loginbtn:nth-child(1), 
+.signupbtn:nth-child(1){
+    display: none;
+}

@@ -1,0 +1,23 @@
+.cardDataDetails{
+    display: inline-block;
+}
+.cardDataDetails > button{
+    padding-bottom: 15px;
+}
+.card-action{
+    position: relative;
+}
+.card-action p{
+    margin-left: 10px;
+    font-weight: 400;
+}
+
+.action-button-hover{
+    position: absolute;
+    right: 10px;
+    display: none;
+}
+
+.cardDataDetails:hover .action-button-hover{
+    display: block;
+}

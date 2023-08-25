@@ -1,0 +1,8 @@
+/* Add your custom styles here */
+/* For example: */
+.carousel .slide img {
+    width: 100%;
+    max-height: 400px; /* Adjust as needed */
+    object-fit: cover;
+  }
+  

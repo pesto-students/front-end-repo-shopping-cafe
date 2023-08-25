@@ -1,0 +1,26 @@
+.single-product-carousel .carousel-item{
+    background-color: transparent;
+}
+
+.similar-product{
+    margin-top: 180px;
+}
+
+.carousel-magnify-section{
+    padding-left: 0;
+}
+.single-product-carousel .thumbnails{
+    display: inline-block;    
+    padding-left: 25px;
+    margin-top: 40px;
+
+}
+
+.single-product-carousel .thumbnails .thumbnail{
+    width: 80px;
+    height: 80px;
+}
+
+.single-product-carousel .prev, .single-product-carousel .next{
+    display: none;
+}
